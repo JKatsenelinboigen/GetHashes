@@ -8,4 +8,4 @@ A batch script that lets you right click any file and get the MD5 of SHA256 hash
   
 <b>To Use:</b>
 
-  Right click any file --> Send To --> Click <b>Get MD5</b> or <b>Get SHA256</b> to get the file's hashes.
+  Right click any file --> Send To --> Click <b>Get MD5</b>, <b>Get SHA1</b>, or <b>Get SHA256</b> to get the file's hashes.
